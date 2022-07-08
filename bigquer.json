@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mkmart-dbt",
+  "private_key_id": "211ec9c8656929fd67268b4f66f43a2f09ad42cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXBRLmpJRGT55m\nEwpxG+OiF/oLb1rKtPuMWKriYxMs1ChePX/amtRCO7RLZaIteM6tEiKo4ltFco5w\n+jwdyNm49lG1o3m4LpPbNKQ12Ps4M47wEPFFGtu/xri02sjy0FvLxjG3B/tEI9QN\nqts/A76wPWHJXGbTrV3VxHxGURee8qTJ1+T/cf+H7ZVxfM5btKR2iFI2KleVjTU3\nHdivcAQFHSZHgY2IjemVtupoyJRxVQUCPHcvcSzXXjVMViQNmJfTklfSTTl8RB/I\n24xxFf/QRTjjYKEoRKgfKIWrs3dMfDc5VbkQe+/e7sqEDwsJPHHoRoaBtnafV3M9\nnBtiaWxdAgMBAAECggEAPHwhZn8KdMLl4HnfuJSrUogjHv9aj2Yc0syIeXl8ReKC\nXow3QIPITL9lxsXWuqrenKHa3R4bpawFdLN3oLtEv7qOnqVXUp/LmOC0hq88cAFU\n5qQlcpaNFWPtxnY7C87f27Erf/y/Slo3xwZ2eUHw7Lu/m7ih9k6w9Da67L7YAa5k\nxgOtlAcB+jXA/HZ2vMCThlnvFtD/2g2fsPabJapfwgeWhyeH3F2lzocReA6zx/EL\nJECsI86pOjfvJfnBk1/NW/iHtuIZAmo7jztUMzLrC9dRBI6r165imB7X5rRIWQp3\n8EH8AmXBFB2Q1ilkKenL6iKu8xV1pY8W9nv7gvy6EwKBgQD4Tw+OqhXZfBzImnRl\nfEJ40hDK/vi8l+DBoqXavd3lQbjzQZOAgJc1fevBZWBOavgevNOE+PJP0ZUoSbpQ\n8NuHEyMKVVclzz3i90lUB2JcK0QgvQQxHM8Ec4kII2ybpkt9ldhDcFnzc/KrAbsD\nG9pzS/zd3ytUDZSMUB/P+mItvwKBgQDdrg0g4eUC7oa8L/YK1QblNJfHoywKqdXy\neKhJbO+afbgiSzbrNmuGsH0SJ6CSFbWqjJfswX/s2P/8l0h+F4TdUfbYBMHr7SJC\nqIZj5bYUbpmPdlfgn2aG+zhJlUyuvI6DX/11kI5AIQumCTPGj3pBmUXmvMv1tadt\nhOboBBQk4wKBgB3RcK7TIfiR/OriEWQ2fc0AfN/Dqp8LJgRawcv4zPLA57LehxYB\nWycjTfJVeDEyi0U1q7jmJEMNifnikKszoUkhNS4CfYqeznG4/GdI07j5wR6lVCGJ\nshp4vVXq2xn96EbWfbfrgAHKRLPga1K+P4dk8qK6L/vR/aqz3H4fNTcFAoGAQInT\nuKcLjXb0MwWjlDPA9ioBplWTFOetKhKGrBnTCB9h5FoRexk05NmtEAQJc35ujWCx\nOnR7UfE7VcaVjGA8hlK+ktWPv6giOVXnCl5uTDSG8IV7wCGoL9Qj5whYcubids0T\ndY7IW1NDmOtE76IF7eM5vptopfhk7jWrJBFL7BECgYEAyvSb5GUkx43hW2vQg406\n6q7XaN/Jh+x0GLXjQCnYdNqN4KVH4FDC1tI2VSVQnKYHho1pOt+Gupg1TiQXI9Dt\n8tqAHcr+pXLIlNUocUQW9y3qRwxqtNYBxcG9HaGrEj3fhdtjPiuoia9ZDPGxOJ+e\nEv5LvAVUxWzC9TaTfE5qlww=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-bq-demo@mkmart-dbt.iam.gserviceaccount.com",
+  "client_id": "115319689223515787449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-bq-demo%40mkmart-dbt.iam.gserviceaccount.com"
+}
